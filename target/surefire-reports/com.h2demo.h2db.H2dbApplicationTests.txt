@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.h2demo.h2db.H2dbApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.878 s -- in com.h2demo.h2db.H2dbApplicationTests
